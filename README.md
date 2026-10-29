@@ -1,8 +1,8 @@
 # Options Strategies and Market Analysis
 
-This repository contains assignments and practical work from an **Options Strategies and Market Analysis** course, covering options fundamentals, pricing models, Greeks, trading strategies, technical analysis, backtesting, and portfolio risk management through applied Python-based analysis.
+This repository contains practical work from an **Options Strategies and Market Analysis** project, covering options fundamentals, pricing models, Greeks, trading strategies, technical analysis, backtesting, and portfolio risk management through applied Python-based analysis.
 
-Each assignment lives in its own folder with its own code, data, and notes. Only assignments that involve actual code are included — write-up/theory-only assignments are left out. Code is being cleaned up gradually (Assignment 2 is updated so far), so quality and dates of the options chosen vary a bit across folders for now.
+Each project lives in its own folder with its own code, data, and notes. Only assignments that involve actual code are included — write-up/theory-only assignments are left out. Code is being cleaned up gradually (Assignment 2 is updated so far), so the quality and dates of the chosen options vary a bit across folders for now.
 
 ## 📚 What This Project Covers
 
